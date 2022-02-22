@@ -146,4 +146,4 @@ urlpatterns = [
 ![Output](.//output.png)
 
 ## Result:
-Thus a website is designed to perform mathematical calculations in server side and is hosted at http://sudharshna.student.saveetha.in/
+Thus a website is designed to perform mathematical calculations in server side is successful.
